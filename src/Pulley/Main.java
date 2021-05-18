@@ -9,5 +9,7 @@ public class Main {
         String message1 =  "Hello Kaleb, my name is Caleb.";
         System.out.println(message);
         System.out.println(message1);
+
+        System.out.println("Hello Kaleb, My name is Cody");
     }
 }
